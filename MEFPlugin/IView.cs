@@ -5,6 +5,5 @@ namespace MEFPlugin
     public interface IView
     {
         UniformGrid GridForPlugin { get; }
-        void Reload();
     }
 }

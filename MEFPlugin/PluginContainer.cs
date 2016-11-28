@@ -43,7 +43,6 @@ namespace MEFPlugin
                     plugin.Do();
                 }
             }
-            _view.Reload();
         }
     }
 }
