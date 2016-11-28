@@ -29,6 +29,8 @@ namespace Example04
         [ImportMany(typeof(IPerson))]
         IEnumerable<Lazy<IPerson, IPersonMetadata>> _interfaceMeta;
 
+        [ImportMany(typeof(IPerson))]
+        IEnumerable<Lazy<IPerson>> _persons;
         #endregion
 
         static void Main(string[] args)

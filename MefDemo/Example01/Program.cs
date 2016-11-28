@@ -55,10 +55,7 @@ namespace Example01
     {
         //This is the string property that we are
         //exporting (making it a "plug")
-        [Export()]
-        public string MyMessage
-        {
-            get { return "This is my example message."; }
-        }
+        [Export]
+        public string MyMessage =>  "This is my example message.";
     }
 }
