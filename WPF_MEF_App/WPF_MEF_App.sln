@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MEF_App", "WPF_MEF_App\WPF_MEF_App.csproj", "{52CE3ECE-4403-4B10-8614-0E684AF0A2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalShared", "InternalShared\InternalShared.csproj", "{58195972-83B2-470F-A9F4-1D91BCD4EB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginCalculator", "PluginCalculator\PluginCalculator.csproj", "{6E7B41BA-BD84-4977-8ADE-98C58B0295D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginSecond", "PluginSecond\PluginSecond.csproj", "{597C890C-FB7D-4F83-A873-33BB50237103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CE3ECE-4403-4B10-8614-0E684AF0A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CE3ECE-4403-4B10-8614-0E684AF0A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CE3ECE-4403-4B10-8614-0E684AF0A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CE3ECE-4403-4B10-8614-0E684AF0A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58195972-83B2-470F-A9F4-1D91BCD4EB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58195972-83B2-470F-A9F4-1D91BCD4EB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58195972-83B2-470F-A9F4-1D91BCD4EB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58195972-83B2-470F-A9F4-1D91BCD4EB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7B41BA-BD84-4977-8ADE-98C58B0295D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7B41BA-BD84-4977-8ADE-98C58B0295D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7B41BA-BD84-4977-8ADE-98C58B0295D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7B41BA-BD84-4977-8ADE-98C58B0295D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597C890C-FB7D-4F83-A873-33BB50237103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C890C-FB7D-4F83-A873-33BB50237103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C890C-FB7D-4F83-A873-33BB50237103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C890C-FB7D-4F83-A873-33BB50237103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
