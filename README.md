@@ -7,3 +7,7 @@
                                    
 Managed Extensibility Framework
         Code sample
+
+MefFirst - my first example solution (Dynamic load and add new function to app)
+WPF_MEF_App - Wpf with MVVM example app
+MefDemo - CodeProject mef example sample
