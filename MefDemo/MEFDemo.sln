@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example11_Mef2", "Example11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example12_MefWpf", "Example12\Example12_MefWpf\Example12_MefWpf.csproj", "{DA6B8E70-F6DA-469F-ACDD-07954710FDC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example13_Mef2", "Example13\Example13_Mef2\Example13_Mef2.csproj", "{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,18 @@ Global
 		{DA6B8E70-F6DA-469F-ACDD-07954710FDC0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DA6B8E70-F6DA-469F-ACDD-07954710FDC0}.Release|x86.ActiveCfg = Release|Any CPU
 		{DA6B8E70-F6DA-469F-ACDD-07954710FDC0}.Release|x86.Build.0 = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{72173BD6-1CEA-40EE-B5A2-A4A8215378FE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
