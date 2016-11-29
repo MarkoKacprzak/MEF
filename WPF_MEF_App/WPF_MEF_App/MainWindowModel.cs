@@ -12,7 +12,7 @@ namespace WPF_MEF_App
 {
     public class MainWindowModel : NotifyModelBase
     {
-        public ICommand ImportPluginCommand { get; protected set; }
+        public ICommand ImportPluginCommand { get;  }
 
         /// <summary>
         /// If one plugin of type IView is found then it is loaded in this property
